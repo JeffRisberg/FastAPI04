@@ -20,7 +20,8 @@ One table for items.
 
 To run it:
 
-cd src uvicorn main:app --reload
+cd src
+uvicorn main:app --reload
 
 Then send HTTP requests to localhost:8000, such as:
 
