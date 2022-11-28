@@ -1,3 +1,1 @@
-from . user import User
-from . post import Post, Category
-
+from item import Item

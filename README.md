@@ -2,13 +2,17 @@
 
 Shows examples of using FastAPI and a database.
 
-It shows how to set up API endpoints.
+It shows how to use SQLAlchemy.
 
 This is based on Chapter 5 of the book by "Sherwin John C. Tragura"
 
-## setup database 
+## setup database
 
 Name is "fastapi04"
+
+```
+create database fastapi04;
+```
 
 One table for items.
 
@@ -16,8 +20,7 @@ One table for items.
 
 To run it:
 
-cd src 
-uvicorn main:app --reload
+cd src uvicorn main:app --reload
 
 Then send HTTP requests to localhost:8000, such as:
 
