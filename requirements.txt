@@ -6,11 +6,15 @@ fastapi==0.111.1
 h11==0.13.0
 idna==3.3
 lagom==1.7.1
+mysql==0.0.3
+mysql-connector-python==9.0.0
+mysqlclient==2.1.1
 pydantic==1.9.1
 python-multipart==0.0.9
 six==1.16.0
 sniffio==1.2.0
 starlette==0.37.2
+SQLAlchemy==1.4.52
 typing_extensions==4.12.1
 uvicorn[standard]==0.30.3
 
