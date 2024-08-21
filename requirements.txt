@@ -1,4 +1,4 @@
-anyio==3.7.1
+anyio==4.4.0
 click==8.1.7
 colorama==0.4.5
 dependency-injector==4.39.1
