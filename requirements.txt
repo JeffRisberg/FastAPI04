@@ -2,7 +2,7 @@ anyio==4.4.0
 click==8.1.7
 colorama==0.4.5
 dependency-injector==4.39.1
-fastapi==0.112.1
+fastapi==0.115.0
 h11==0.13.0
 idna==3.3
 lagom==1.7.1
