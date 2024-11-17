@@ -2,19 +2,19 @@ anyio==4.4.0
 click==8.1.7
 colorama==0.4.5
 dependency-injector==4.39.1
-fastapi==0.115.0
+fastapi==0.115.5
 h11==0.13.0
 idna==3.3
 lagom==1.7.1
 mysql==0.0.3
 mysql-connector-python==9.0.0
 mysqlclient==2.1.1
-pydantic==1.10.7
+pydantic==1.10.17
 python-multipart==0.0.9
 six==1.16.0
 sniffio==1.2.0
-starlette==0.39.2
+starlette==0.41.2
 SQLAlchemy==1.4.52
 typing_extensions==4.12.1
-uvicorn[standard]==0.30.6
+uvicorn[standard]==0.32.0
 
